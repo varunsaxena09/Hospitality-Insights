@@ -54,5 +54,7 @@ This project showcases how *business intelligence tools* can help the hospitalit
 ## 📸 Screenshot  
 
 *How Our Dashboard Looks Like:*  
+![Hospitality Dashboard](https://github.com/varunsaxena09/Hospitality-Insights/blob/main/Dashboard%201.png?raw=true)
+
 
 
